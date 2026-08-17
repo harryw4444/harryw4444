@@ -1,7 +1,7 @@
 # Hi, I'm Harry 👋
 
 ### Standalone Projects
-📦 [Living Dex Tracker](https://github.com/harryw4444/living_dex_tracker) - Web app for tracking a Pokémon Living Dex.<br>
+📦 [Living Dex Tracker](https://github.com/harryw4444/living_dex_tracker) -Pokémon Living Dex Web App.<br>
 🃏 [Terminal Solitaire](https://github.com/harryw4444/terminal_solitaire_android) - A solitaire game for Android.
 
 
